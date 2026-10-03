@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 I’m currently working on a **[Visual Background Tool](填入連結)**.
+- 🔭 I’m currently working on a **[Visual Background Tool](https://github.com/bbdaii/Virtual-Background-Tool)**.
 - 🎨 I specialize in **Pixel Perfect** implementation and delivering seamless **User Experience (UX)**.
 - 🌱 I’m exploring new AI tools and documenting my journey on my **[Medium](https://medium.com/@jcyc900131.5688216)**.
 - 💬 Ask me about **Data Visualization, WebGL, and bridging Design & Development**.
